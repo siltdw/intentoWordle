@@ -1,1 +1,1 @@
-tarea wordle - api prestada de compañero
+tarea wordle - api prestada
